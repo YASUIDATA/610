@@ -1,1 +1,1 @@
-# 610
+vless://31e6bf4a-891b-4c5d-9cb4-35d99730bbe2@yasdat.xyz:443?type=tcp&security=reality&pbk=XwIE_dfI4hG9s1Kfj_0B9zG_FutuM86lug9oIRf01F4&fp=chrome&sni=www.softbank.jp&sid=e7d991a6cac0b601&spx=%2F&flow=xtls-rprx-vision#FAST-610
