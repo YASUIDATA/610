@@ -1,3 +1,3 @@
-vless://8604707d-622e-4873-a8f4-6eeeaef15440@167.179.71.8:443?type=tcp&security=reality&pbk=HgtZKQ08cS9Nlx5VFI-n9kV_kVfDLn8xJy2ybA-miAc&fp=chrome&sni=www.softbank.jp&sid=50da4387b6fdac&spx=%2F&flow=xtls-rprx-vision#FAST-610
+vless://70186aa4-01ed-4b6c-aaa9-55c292ed763f@167.179.71.8:25501?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-601%20NTT
 
-vless://5dd86642-e296-4a5c-bf2d-4f5a38fcfb99@v3b.yasuidata.xyz:443?type=tcp&security=reality&pbk=M47txNWsav3pjxSi-W1vEndurOzcsmSn1h9NlEqciXs&fp=chrome&sni=www.softbank.jp&sid=68&spx=%2F&flow=xtls-rprx-vision#FULL%20DUNG%20LUONG-610
+vless://aa9f0664-ec42-44e9-9cf7-73e03308fa8e@5.104.80.188:26770?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#FULL%20(TOC%20DO%20CHAM)-610%20NNQ
