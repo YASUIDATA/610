@@ -1,3 +1,1 @@
-vless://517be40c-9e5f-4264-a24f-86ada3a205de@167.179.71.8:25501?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-610%20NNQ
 
-vless://aa9f0664-ec42-44e9-9cf7-73e03308fa8e@5.104.80.188:26770?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#FULL%20(TOC%20DO%20CHAM)-610%20NNQ
